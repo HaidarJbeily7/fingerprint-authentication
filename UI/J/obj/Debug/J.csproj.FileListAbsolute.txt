@@ -1,0 +1,22 @@
+C:\Users\HZRS\Desktop\J\J\bin\Debug\J.exe.config
+C:\Users\HZRS\Desktop\J\J\bin\Debug\J.exe
+C:\Users\HZRS\Desktop\J\J\bin\Debug\J.pdb
+C:\Users\HZRS\Desktop\J\J\obj\Debug\J.csprojResolveAssemblyReference.cache
+C:\Users\HZRS\Desktop\J\J\obj\Debug\J.Properties.Resources.resources
+C:\Users\HZRS\Desktop\J\J\obj\Debug\J.csproj.GenerateResource.Cache
+C:\Users\HZRS\Desktop\J\J\obj\Debug\J.exe
+C:\Users\HZRS\Desktop\J\J\obj\Debug\J.pdb
+C:\Users\HZRS\Desktop\J\J\obj\Debug\J.F_welcome.resources
+D:\QTech\J (2)\J\J\bin\Debug\J.exe.config
+D:\QTech\J (2)\J\J\bin\Debug\J.exe
+D:\QTech\J (2)\J\J\bin\Debug\J.pdb
+D:\QTech\J (2)\J\J\obj\Debug\J.csproj.AssemblyReference.cache
+D:\QTech\J (2)\J\J\obj\Debug\J.F_signup.resources
+D:\QTech\J (2)\J\J\obj\Debug\J.F_welcome.resources
+D:\QTech\J (2)\J\J\obj\Debug\J.F_Info.resources
+D:\QTech\J (2)\J\J\obj\Debug\J.Properties.Resources.resources
+D:\QTech\J (2)\J\J\obj\Debug\J.csproj.GenerateResource.cache
+D:\QTech\J (2)\J\J\obj\Debug\J.csproj.CoreCompileInputs.cache
+D:\QTech\J (2)\J\J\obj\Debug\J.exe
+D:\QTech\J (2)\J\J\obj\Debug\J.pdb
+D:\QTech\J (2)\J\J\bin\Debug\libzkfpcsharp.dll

@@ -1,0 +1,13 @@
+D:\QTech\J (2)\J\J\bin\Release\J.exe.config
+D:\QTech\J (2)\J\J\bin\Release\J.exe
+D:\QTech\J (2)\J\J\bin\Release\J.pdb
+D:\QTech\J (2)\J\J\bin\Release\libzkfpcsharp.dll
+D:\QTech\J (2)\J\J\obj\Release\J.csproj.AssemblyReference.cache
+D:\QTech\J (2)\J\J\obj\Release\J.F_signup.resources
+D:\QTech\J (2)\J\J\obj\Release\J.F_welcome.resources
+D:\QTech\J (2)\J\J\obj\Release\J.F_Info.resources
+D:\QTech\J (2)\J\J\obj\Release\J.Properties.Resources.resources
+D:\QTech\J (2)\J\J\obj\Release\J.csproj.GenerateResource.cache
+D:\QTech\J (2)\J\J\obj\Release\J.csproj.CoreCompileInputs.cache
+D:\QTech\J (2)\J\J\obj\Release\J.exe
+D:\QTech\J (2)\J\J\obj\Release\J.pdb
